@@ -14,11 +14,11 @@ If you prefer French, see: Français — README.fr.md
 ## Skills
 - Languages: C++, Python
 - Image / data tools: custom PPM/PGM readers &amp; C++ image-processing code, small helper Python scripts (open_ppm.py), Makefiles, jupytext (notebooks as text)
-- Course / teaching tools: Jupyter / jupytext, Markdown lessons and TDs, course automation (course.py)
-- Dev tools: Git, GitHub (imported subrepos from GitLab), Make, basic CI files (.gitlab-ci.yml)
+- Course / teaching tools: Jupyter / jupytext, Markdown lessons and TDs
+- Dev tools: Git, GitHub (imported subrepos from GitLab), Make
 - Practices: incremental development, examples &amp; exercises, exercise-driven learning, small testable programs
 
-## Selected projects (short descriptions — no links)
+## Selected projects 
 - Projet-Image
   A C++ image-processing project. Implements PPM/PGM/PBM readers/writers and a set of example algorithms: thresholding, Sobel edge detection, superpixels, renormalization, simple filters and small demos. Includes a Makefile, documentation (partie-*.md) and a short report.
 
@@ -26,7 +26,9 @@ If you prefer French, see: Français — README.fr.md
   The course material for an introductory imperative programming class. Mostly written as Markdown lessons and Jupyter-compatible content (jupytext). Contains course scripts (course.py, jupylates_course.py), ontology/config files and media for lectures.
 
 - Weekly assignments (Semaine1–Semaine8) — grouped under Programmation-Impératives
-  Weekly labs and exercises imported from a GitLab group. Early weeks focus on Python/Jupyter basics and algorithmic thinking; later weeks include many C++ exercises and example programs (loops, functions, arrays, file I/O, 2D arrays, small projects like Minesweeper). These repos contain TDs, course notes, example programs and small exercises with step-by-step explanations.
+  Weekly labs and exercises imported from a GitLab group.
+  Early weeks focus on Python/Jupyter basics and algorithmic thinking; later weeks include many C++ exercises and example programs (loops, functions, arrays, file I/O, 2D arrays, small projects like Minesweeper).
+  These repos contain TDs, course notes, example programs and small exercises with step-by-step explanations.
 
 ## Fun skills / side projects
 - LaTeX &amp; templates
@@ -37,11 +39,3 @@ If you prefer French, see: Français — README.fr.md
 
 ---
 
-## Notes about the scan
-- I scanned your repositories to auto-fill languages, top-level files and short descriptions. The scan shows:
-  - Projet-Image is primarily C++ (many .cpp/.hpp files, Makefile, partie-*.md documentation, small Python helper script open_ppm.py, jupytext metadata).
-  - Programmation-Impératives is a Python/Jupyter-centered course repo (Markdown lessons, course.py, jupytext.toml).
-  - Semaine1–Semaine3: lots of Markdown and Python/Jupyter content; Semaine4–Semaine8: many C++ exercises and example programs.
-- The repository content listing fetched from the API may be incomplete.
-
----
