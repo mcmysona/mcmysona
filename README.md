@@ -2,12 +2,12 @@
 
 I'm a student and developer who documents coursework and small projects focused on imperative programming and image processing. I keep course materials, weekly labs and a larger image-processing project here.
 
-If you prefer French, see: Français — README.fr.md
+If you prefer French, see: Français — [README.fr.md](README.fr.md)
 
 ---
 
 ## Quick summary
-- Primary language: English (French translation in README.fr.md)
+- Primary language: English (French translation in [README.fr.md](README.fr.md) )
 - Repository highlights: Programmation-Impératives (contains Semaine1…Semaine8), Projet-Image
 - Main themes: imperative programming, algorithms, data structures, image formats and basic image filters, testing, and code organization
 
