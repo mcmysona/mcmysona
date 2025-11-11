@@ -2,12 +2,12 @@
 
 Je suis étudiant et développeur. Ce profil contient des supports de cours, des TP hebdomadaires et un projet plus développé en traitement d'images.
 
-Si vous préférez l'anglais, voir README.md
+Si vous préférez l'anglais, voir [README.md](README.md)
 
 ---
 
 ## Résumé rapide
-- Langue principale : français (traduction anglaise dans README.md)
+- Langue principale : français (traduction anglaise dans [README.md](README.md) )
 - Dépôts importants : Programmation-Impératives (contient Semaine1…Semaine8), Projet-Image
 - Thèmes principaux : programmation impérative, algorithmes, structures de données, formats d'image et filtres basiques, tests et organisation du code
 
